@@ -19,7 +19,7 @@ A classic Tic-Tac-Toe browser game built with vanilla JavaScript. Two players ta
 
 ## Screenshots
 
-![Tic-Tac-Toe Game](./assets/Screenshot.png)
+![Tic-Tac-Toe Game](./assets/ticTacToe.png)
 
 > *The game board on load — a clean 3×3 grid ready for play.*
 
